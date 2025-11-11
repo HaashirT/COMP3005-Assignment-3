@@ -1,7 +1,7 @@
 Haashir Tanveer (101315405)
 COMP 3005 - Assignment 3
 
-Video Link: https://youtu.be/pkjGV1GzbUY
+Video Link: https://youtu.be/oOMf_Xs5Afc
 
 Setup Instructions:
 1) Create the new database in pgAdmin4
