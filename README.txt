@@ -1,6 +1,8 @@
 Haashir Tanveer (101315405)
 COMP 3005 - Assignment 3
 
+Video Link: https://youtu.be/pkjGV1GzbUY
+
 Setup Instructions:
 1) Create the new database in pgAdmin4
 2) Use the provided setup.sql file inside the database folder to create the database's schema and insert the initial values
